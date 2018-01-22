@@ -20,4 +20,4 @@ function divide(a, b) {
   return a / b;
 }
 
-divide()
+divide(8.723684210526316, 3);
