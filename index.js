@@ -21,3 +21,11 @@ function divide(a, b) {
 }
 
 divide(8.723684210526316, 3);
+
+function inc(n) {
+  return n++;
+}
+
+function dec(n) {
+  return n--;
+}
