@@ -29,3 +29,13 @@ function inc(n) {
 function dec(n) {
   return n--;
 }
+
+function makeInt(n) {
+  var num = parseInt(n, 10);
+  return num;
+}
+
+function preserveDecimal(n) {
+  var dec = parseFloat(n);
+  return dec;
+}
