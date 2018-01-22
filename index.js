@@ -1,15 +1,23 @@
-function add() {
-  
+function add(a, b) {
+  return a + b;
 }
 
-function subtract() {
-  
+add(1300, 99);
+
+function subtract(a, b) {
+  return a - b;
 }
 
-function multiply() {
-  
+subtract(0, 143);
+
+function multiply(a, b) {
+  return a * b;
 }
 
-function divide() {
-  
+multiply(332316, 1);
+
+function divide(a, b) {
+  return a / b;
 }
+
+divide()
