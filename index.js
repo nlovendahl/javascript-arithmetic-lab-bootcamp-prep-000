@@ -23,7 +23,7 @@ function divide(a, b) {
 divide(8.723684210526316, 3);
 
 function inc(n) {
-  return n++;
+  return n += 2;
 }
 
 function dec(n) {
